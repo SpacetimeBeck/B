@@ -1,3 +1,0 @@
-# Beck
-
-Hello World!
